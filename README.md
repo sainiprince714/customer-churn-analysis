@@ -25,7 +25,8 @@ An end-to-end **Customer Churn Analysis** project using **Python, SQL Server, an
 
 ## 📊 Power BI Dashboard
 
-![Uploading Screenshot 2026-10-03 184839.png…]()
+<img width="1303" height="732" alt="Screenshot 2026-10-03 184839" src="https://github.com/user-attachments/assets/8de9bc04-42e2-4a1a-ba8a-06b630e66e0a" />
+
 
 
 ### 📈 Key Metrics
